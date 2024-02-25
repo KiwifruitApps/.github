@@ -5,7 +5,7 @@ We're Kiwifruit. We make projects to improve the privacy and security of people 
 Each project has a different set of contribution guidelines, but to sum it all up, use common sense. Don't try to sneak malicious code into our projects, and please comment on your contributions if possible so your code is easily understood.
 
 ## Our Projects
-Kiwifruit's current projects include OnlyPass.
+Kiwifruit's current projects include OnlyPass and Nexa.
 
 <!--
 
